@@ -40,9 +40,8 @@
 	},
 	"dependencies": [
 		{
-			"description": "@minecraft/server module dependency",
 			"module_name": "@minecraft/server",
-			"version": "1.14.0-beta"
+			"version": "1.16.0-beta"
 		}
 	]
 }
