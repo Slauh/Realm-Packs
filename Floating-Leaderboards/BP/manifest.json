@@ -40,14 +40,12 @@
 	},
 	"dependencies": [
 		{
-			"description": "@minecraft/server module dependency",
 			"module_name": "@minecraft/server",
-			"version": "1.14.0-beta"
+			"version": "1.16.0-beta"
 		},
 		{
-			"description": "@minecraft/server-ui module dependency",
 			"module_name": "@minecraft/server-ui",
-			"version": "1.3.0-beta"
+			"version": "1.4.0-beta"
 		}
 	]
 }
