@@ -30,7 +30,7 @@
 			"language": "javascript",
 			"entry": "scripts/index.js",
 			"uuid": "73231bc7-6ac0-1746-01f0-16f054e835cb",
-			"version": "1.14.0-beta"
+			"version": "1.17.0-beta"
 		}
 	],
 	"metadata": {
@@ -41,7 +41,7 @@
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.16.0-beta"
+			"version": "1.17.0-beta"
 		}
 	]
 }
