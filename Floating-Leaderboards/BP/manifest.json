@@ -2,11 +2,11 @@
 	"format_version": 2,
 	"header": {
 		"name": "Floating Leaderboards",
-		"description": "Floating leaderboard pack.\nCreated by Herobrine64#3928.\nUPDATED FOR 1.21.30",
+		"description": "Floating leaderboard pack.\nCreated by Herobrine64#3928.\nUPDATED FOR 1.21.50",
 		"uuid": "319d990e-6da0-1d57-0f68-b3bfeb8a2767",
 		"version": [
 			1,
-			4,
+			5,
 			0
 		],
 		"min_engine_version": [
